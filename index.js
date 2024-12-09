@@ -4,7 +4,7 @@ const { createProxyMiddleware } = require('http-proxy-middleware');
 const app = express();
 
 // Target URL to proxy requests
-const targetUrl = 'https://eaglercraft.q13x.com/';
+const targetUrl = 'https://sd592g.github.io/zj684od4lfg/';
 
 // Create the proxy middleware
 const proxy = createProxyMiddleware({
