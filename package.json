@@ -4,8 +4,8 @@
     "http-proxy-middleware": "^2.0.6",
     "http-proxy": "^1.18.1"
   },
-  "name": "Pathetic",
-  "description": "Pathetic is an unblocked site for users to access & play Minecraft freely on Pathetic",
+  "name": "cybriagg",
+  "description": "CybriaGG is an unblocked site for users to access & play Roblox freely on Now.GG",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -13,9 +13,9 @@
     
   },
   "keywords": [
-    "minecraft",
-    "Pathetic"
+    "roblox",
+    "nowgg"
   ],
-  "author": "Pathetic",
-  "license": "Pathetic"
+  "author": "CybriaTech",
+  "license": "ISC"
 }
